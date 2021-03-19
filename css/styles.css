@@ -1,7 +1,39 @@
+
+	* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 header {
 	
-	background-image: darkslategrey;
+background:#85ACA2;
 	color: white;
 	text-align:center;
 	padding: 40px; 
+	
 }
+
+body { 
+}
+
+.carousel {
+	margin-left: 100px;
+	margin-right: 100px;
+	
+}
+.my-container {
+	margin-left: 100px;
+	margin-right: 100px;
+	border: thick;
+	padding: 30px; 
+	background: #85ACA2;
+	text-align: center;
+		
+}
+
+.img-thumbnail {
+	width: 300px; 
+	margin-top: 20px;
+	
+		
+}
+
+
+	
