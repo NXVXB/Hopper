@@ -6,8 +6,9 @@ header {
 background:#85ACA2;
 	color: white;
 	text-align:center;
-	padding: 40px; 
+	padding: 0px; 
 	
+
 }
 
 body { 
@@ -31,9 +32,37 @@ body {
 .img-thumbnail {
 	width: 300px; 
 	margin-top: 20px;
+			
+}
+
+.testimonial {
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 60px; 
+		
+}
+
+.nav-link {
 	
+	color:#E0B75F;
+	font-size: 25px;
+	font: italic; 
 		
 }
 
 
+
+
+h2 {
+	text-align: center;
+	margin: 20px;
+	font-size: 40px;
+	color: #85ACA2;
+
+		
+}
+h1 {
+color: aliceblue;
 	
+	
+}
