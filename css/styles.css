@@ -38,13 +38,13 @@ body {
 
 
 .carousel {
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 170px;
+	margin-right: 170px;
 	
 }
 .my-container {
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 170px;
+	margin-right: 170px;
 	border: thick;
 	padding: 30px; 
 	background: #85ACA2;
@@ -59,8 +59,8 @@ body {
 }
 
 .testimonial {
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
 	padding: 60px; 
 		
 }
@@ -73,7 +73,7 @@ h2 {
 	text-align: center;
 	margin: 20px;
 	padding: 30px;
-	font-size: 50px;
+	font-size: 60px;
 	color: #85ACA2;
 
 		
