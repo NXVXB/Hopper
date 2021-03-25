@@ -4,15 +4,37 @@
 header {
 	
 background:#85ACA2;
-	color: white;
-	text-align:center;
+	color: #85ACA2;
+	text-align:right;
 	padding: 0px; 
+	
+	
 	
 
 }
 
+.navbar-brand { font-size: 35px; 
+
+	
+   }
+
 body { 
+	
+	
 }
+
+.nav {
+	background: #85ACA2
+}
+
+.nav-link {
+	
+	color:#EED10E;
+	font-size: 25px;
+	
+		
+}
+
 
 .carousel {
 	margin-left: 100px;
@@ -42,13 +64,6 @@ body {
 		
 }
 
-.nav-link {
-	
-	color:#E0B75F;
-	font-size: 25px;
-	font: italic; 
-		
-}
 
 
 
@@ -62,7 +77,16 @@ h2 {
 		
 }
 h1 {
-color: aliceblue;
-	
+color:#EED10E;
 	
 }
+
+h6 { 
+	
+}
+
+p { 
+color:aliceblue
+
+}
+	
