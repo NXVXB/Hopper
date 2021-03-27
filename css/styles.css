@@ -3,8 +3,8 @@
 
 header {
 	
-background:#85ACA2;
-	color: #85ACA2;
+background:#339933;
+	color: #339933;
 	text-align:right;
 	padding: 0px; 
 
@@ -13,7 +13,6 @@ background:#85ACA2;
 
 .navbar-brand { font-size: 35px; 
 
-	
    }
 
 body { 
@@ -27,7 +26,7 @@ body {
 
 .nav-link {
 	
-	color:#EED10E;
+	color:#339933;
 	font-size: 25px;
 	padding-bottom: 15px
 	
@@ -42,10 +41,8 @@ body {
 	
 	
 }
-.my-container {
-
-	border: thick;
-	background: #85ACA2;
+.container-fluid {
+	background: #ff9933;
 	text-align: center;
 	padding: 3px;
 		
@@ -63,16 +60,13 @@ body {
 	display: block;
 	margin-left:auto;
 	margin-right:auto;
-	width: 50%:
 }
 
 h2 {
-	text-align: center;
-	margin: 20px;
-	font-size: 60px;
-	color: #85ACA2;
-
-		
+    text-align: center;
+    margin: 20px;
+    font-size: 60px;
+    color: #339933;		
 }
 h1 {
 color:#EED10E;
@@ -99,7 +93,7 @@ p {
 
 
 footer {
-	background:#85ACA2;
+	background:#339933;
 	padding: 60px;
 	
 }
