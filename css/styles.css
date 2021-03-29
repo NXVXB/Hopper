@@ -15,14 +15,8 @@ background:#339933;
 
    }
 
-body { 
-	
-	
-}
 
-.nav {
-	
-}
+
 
 .nav-link {
 	
@@ -49,18 +43,25 @@ font-size: 30px;
 	margin-left: 80px;
 	margin-right: 80px;
 	align-content: center
-	
-	
+		
 }
+
+
 .container-fluid {
 
 	text-align: center;
 	padding: 3px;
-	border:groove;
+	
 }
+
+
 
 .text-center { 
 	
+	background: #E6E5E5;
+	margin: 0;
+	padding-top: 200PX;
+
 	
 	
 }
@@ -117,6 +118,8 @@ h4 {
     color:#EED10E; 		
 }
 
+
+
 .contactinfo {
     color: green;
     text-align: center;
@@ -128,6 +131,7 @@ h4 {
 
 p { 
 
+	text-align: center;
 
 }
 	
@@ -152,9 +156,16 @@ p {
 	
 }
 
+.jumbotron{
+	margin: auto;
+	background: #E6E5E5;
+}
 
 footer {
-	background:#C2C2C2;
-	padding: 60px;
-	
+	background:#E6E5E5;
+	padding: 0px;
+	margin: 0px; 
 }
+
+
+	
