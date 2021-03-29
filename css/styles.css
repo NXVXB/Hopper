@@ -55,8 +55,15 @@ body {
 }
 	
 	
-	
-	
+.contactinfotitle {
+    text-align: center;
+}
+
+.margins {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
 	
 
 .img-thumbnail {
@@ -101,6 +108,8 @@ h6 {
 	font-size: large
 	
 }
+
+
 
 p { 
 
