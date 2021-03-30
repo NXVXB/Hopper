@@ -1,18 +1,15 @@
-
 	* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 header {
-	
-background:#339933;
+	background:#339933;
 	color: #339933;
 	text-align:right;
 	padding: 0px; 
-
-
 }
 
-.navbar-brand { font-size: 30px; 
-
+.navbar-brand { 
+	font-size: 30px; 
+	color: white;
    }
 
 .dropdown-item {
@@ -25,42 +22,29 @@ background:#339933;
 	color:#339933;
 	font-size: 25px;
 	padding-bottom: 15px
-	
-		
 }
-
 
 a {color:#339933;	
 font-size: 30px;
 }
-	
-	
 
 .carousel {
 	margin-left: 80px;
 	margin-right: 80px;
-	align-content: center
-		
+	align-content: center	
 }
 
 
 .container-fluid {
-
 	text-align: center;
-	padding: 3px;
-	
+	padding: 3px;	
 }
-
-
 
 .text-center { 
 	
 	background: #E6E5E5;
 	margin: 0;
 	padding-top: 170PX;
-
-	
-	
 }
 	
 	
@@ -80,16 +64,10 @@ font-size: 30px;
 	display: block;
 	margin-left:auto;
 	margin-right:auto;
-	
-
 }
 
 .col-md-6 {
-	
 	margin: auto;
-	
-	
-	
 }
 
 .col-md-4 {
@@ -99,7 +77,6 @@ font-size: 30px;
 
 
 .center {
-	
 	display: block;
 	margin-left:auto;
 	margin-right:auto;
@@ -113,9 +90,9 @@ h2 {
     font-size: 30px;
     color: #339933;		
 }
+
 h1 {
 color:#EED10E;
-	
 }
 
 h4 {
@@ -131,12 +108,10 @@ h4 {
     color: green;
     text-align: center;
 	font-size: large
-	
 }
 
 
 p { 
-
 	text-align: center;
 }
 	
@@ -157,8 +132,6 @@ p {
 .embed-responsive-item {
 	  display: block;
    margin: 0 auto;
-
-	
 }
 
 .jumbotron{
@@ -172,7 +145,4 @@ footer {
 	margin: 0px; 
 }
 
-.footer {
-    margin-top: 500px;
-}
 	
