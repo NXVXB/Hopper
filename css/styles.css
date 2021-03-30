@@ -141,9 +141,7 @@ p {
 
 .rounded{ width: 30px;
 	
-	
-	
-	
+
 }
 footer {
 	background:#E6E5E5;
@@ -151,7 +149,29 @@ footer {
 	margin: 0px; 
 }
 
+
+.display-4 { text-align: center
+		
+	}
+	
+.btn {
+	margin: 2px;
+}	
+
+
+
 .bag-icon{
 	margin: 12px;
 	padding: 5px;
+}
+.btn-primary {
+    color: #E6E5E5;
+    background-color: #E6E5E5;
+    border-color:#EED10E;
+}
+
+.btn-primary:hover {
+    color: #EED10E;
+    background-color: #EED10E;
+    border-color: #EED10E;
 }
