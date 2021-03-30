@@ -141,6 +141,7 @@ p {
 
 .rounded{ width: 30px;
 	
+	
 
 }
 footer {
@@ -155,7 +156,9 @@ footer {
 	}
 	
 .btn {
-	margin: 2px;
+	margin: px;
+	
+	
 }	
 
 
@@ -168,6 +171,7 @@ footer {
     color: #E6E5E5;
     background-color: #E6E5E5;
     border-color:#EED10E;
+	
 
 }
 
@@ -175,10 +179,12 @@ footer {
 	padding: 8px;
 	width: 63px;
 	
+	
 }
 
 .btn-primary:hover {
     color: #EED10E;
     background-color: #EED10E;
     border-color: #EED10E;
+
 }
