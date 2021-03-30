@@ -11,12 +11,14 @@ background:#339933;
 
 }
 
-.navbar-brand { font-size: 35px; 
+.navbar-brand { font-size: 30px; 
 
    }
 
-
-
+.dropdown-item {
+	font-size: 17px;
+	color: #339933;
+}
 
 .nav-link {
 	
@@ -31,11 +33,6 @@ background:#339933;
 a {color:#339933;	
 font-size: 30px;
 }
-
-
-	
-	
-	
 	
 	
 
@@ -77,10 +74,6 @@ font-size: 30px;
 }
 
 	
-
-.img-thumbnail {
-
-}
 
 .img-fluid {
 	width: 350px; 
