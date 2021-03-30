@@ -171,6 +171,12 @@ footer {
 
 }
 
+.size {
+	padding: 12px;
+	width: 65px;
+	
+}
+
 .btn-primary:hover {
     color: #EED10E;
     background-color: #EED10E;
