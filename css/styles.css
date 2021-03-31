@@ -33,11 +33,6 @@ a {color:#339933;
 font-size: 30px;
 }
 
-.carousel {
-	margin-left: 80px;
-	margin-right: 80px;
-	align-content: center	
-}
 
 
 .container-fluid {
@@ -51,20 +46,13 @@ font-size: 30px;
 	padding-top: 170PX;
 }
 	
-<<<<<<< HEAD
-	
-.contactinfotitle {
-    text-align: center;
-=======
+
+
 body {
 	background-image: url("../images/bars.png");
 	background-repeat: no-repeat;
  	background-attachment: fixed;
   	background-size: 100% 100%;
-<<<<<<< HEAD
->>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
-=======
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
 }
 
 .margins {
@@ -119,11 +107,6 @@ h4 {
 }
 
 
-.contactinfo {
-    color: green;
-    text-align: center;
-	font-size: large
-}
 
 
 p { 
@@ -156,66 +139,20 @@ p {
 	
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-.rounded{ width: 30px;
 
-=======
-.rounded{ 
-	width: 30px;	
->>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
-=======
-.rounded{ 
-	width: 30px;	
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
-}
+.rounded{ width: 30px; }
 
-
-footer {
-	background:#E6E5E5;
-	position: fixed;
-	padding: 10px 10px 0px 10px;
-	bottom: 0;
-	width: 100%;
-	height: 30px;
-}
-
-
-.display-4 { 
-	text-align: center
-		
-	}
-	
 .btn {
-<<<<<<< HEAD
-<<<<<<< HEAD
-	margin-top: 29px;
-	
-	
-=======
-	margin: px;
->>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
-=======
-	margin: px;
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
-}	
+	margin-top: 25px;}
 
-.bag-icon{
-	margin: 12px;
-	padding: 5px;
-}
-.btn-primary {
+	
+	
+	.btn-primary {
     color: #E6E5E5;
     background-color: #E6E5E5;
-    border-color:#EED10E;
-}
+    border-color:#EED10E;}
 
-.size {
-	padding: 8px;
-	width: 63px;
-	
-	
-}
+
 
 .btn-primary:hover {
     color: #EED10E;
@@ -224,31 +161,12 @@ footer {
 
 }
 
-.container-title{
-	text-align: center;
-	padding: 10px;
-	margin: 20px 20px 100px 20px;
+footer {
+	margin: 0px;
 }
 
-.container-bagcontents{
-	text-align: center;
-}
 
-hr{
-	display: block;
-	margin-left: 100px;
-	margin-right: 150px;
-	border-width: 1px;
-	border-color: #339933;
-}
 
-<<<<<<< HEAD
-=======
-.text-checkout{
-	border: 2px solid #b9d1b9;
-	background-color: #ebf3eb;
-	padding: 30px;
-	margin: 15px;
-}
 
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
+
+
