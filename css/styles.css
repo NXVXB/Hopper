@@ -48,10 +48,10 @@ font-size: 30px;
 }
 	
 body {
-			background-image: url("../images/bars.png");
-			background-repeat: no-repeat;
- 			background-attachment: fixed;
-  			background-size: 100% 100%;
+	background-image: url("../images/bars.png");
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+  	background-size: 100% 100%;
 }
 
 
@@ -143,10 +143,8 @@ p {
 	background: #E6E5E5;
 }
 
-.rounded{ width: 30px;
-	
-	
-
+.rounded{ 
+	width: 30px;	
 }
 footer {
 	background:#E6E5E5;
@@ -155,17 +153,14 @@ footer {
 }
 
 
-.display-4 { text-align: center
+.display-4 { 
+	text-align: center
 		
 	}
 	
 .btn {
 	margin: px;
-	
-	
 }	
-
-
 
 .bag-icon{
 	margin: 12px;
@@ -175,8 +170,6 @@ footer {
     color: #E6E5E5;
     background-color: #E6E5E5;
     border-color:#EED10E;
-	
-
 }
 
 .size {
@@ -192,3 +185,22 @@ footer {
     border-color: #EED10E;
 
 }
+
+.container-title{
+	text-align: center;
+	padding: 10px;
+	margin: 20px 20px 100px 20px;
+}
+
+.container-bagcontents{
+	text-align: center;
+}
+
+hr{
+	display: block;
+	margin-left: 100px;
+	margin-right: 150px;
+	border-width: 1px;
+	border-color: #339933;
+}
+
