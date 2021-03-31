@@ -7,10 +7,13 @@ header {
 	padding: 0px; 
 }
 
+body {margin: 0px;}
+
 .navbar-brand { 
 	font-size: 30px; 
 	color: #339933;
    }
+
 
 .dropdown-item {
 	font-size: 17px;
