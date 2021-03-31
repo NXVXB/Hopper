@@ -207,3 +207,10 @@ hr{
 	border-color: #339933;
 }
 
+.text-checkout{
+	border: 2px solid #b9d1b9;
+	background-color: #ebf3eb;
+	padding: 30px;
+	margin: 15px;
+}
+
