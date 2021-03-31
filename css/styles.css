@@ -9,7 +9,7 @@ header {
 
 .navbar-brand { 
 	font-size: 30px; 
-	color: white;
+	color: #339933;
    }
 
 .dropdown-item {
@@ -48,7 +48,7 @@ font-size: 30px;
 }
 	
 body {
-	background-image: url("../images/bars.png");
+			background-image: url("../images/bars.png");
 			background-repeat: no-repeat;
  			background-attachment: fixed;
   			background-size: 100% 100%;
