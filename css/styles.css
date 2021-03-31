@@ -56,10 +56,11 @@ font-size: 30px;
     text-align: center;
 =======
 body {
-			background-image: url("../images/bars.png");
-			background-repeat: no-repeat;
- 			background-attachment: fixed;
-  			background-size: 100% 100%;
+	background-image: url("../images/bars.png");
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+  	background-size: 100% 100%;
+>>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
 }
 
 .margins {
