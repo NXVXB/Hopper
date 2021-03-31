@@ -11,7 +11,7 @@ body {margin: 0px;}
 
 .navbar-brand { 
 	font-size: 30px; 
-	color: #339933;
+	color: white;
    }
 
 
@@ -50,14 +50,17 @@ font-size: 30px;
 	padding-top: 170PX;
 }
 	
+<<<<<<< HEAD
+	
+.contactinfotitle {
+    text-align: center;
+=======
 body {
 			background-image: url("../images/bars.png");
 			background-repeat: no-repeat;
  			background-attachment: fixed;
   			background-size: 100% 100%;
 }
-
-
 
 .margins {
     margin-left: 300px;
@@ -144,13 +147,20 @@ p {
 .jumbotron{
 	margin: auto;
 	background: #E6E5E5;
+	text-align: center;
+	
 }
 
+<<<<<<< HEAD
 .rounded{ width: 30px;
-	
-	
 
+=======
+.rounded{ 
+	width: 30px;	
+>>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
 }
+
+
 footer {
 	background:#E6E5E5;
 	padding: 0px;
@@ -158,17 +168,20 @@ footer {
 }
 
 
-.display-4 { text-align: center
+.display-4 { 
+	text-align: center
 		
 	}
 	
 .btn {
+<<<<<<< HEAD
+	margin-top: 29px;
+	
+	
+=======
 	margin: px;
-	
-	
+>>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
 }	
-
-
 
 .bag-icon{
 	margin: 12px;
@@ -178,8 +191,6 @@ footer {
     color: #E6E5E5;
     background-color: #E6E5E5;
     border-color:#EED10E;
-	
-
 }
 
 .size {
@@ -195,3 +206,22 @@ footer {
     border-color: #EED10E;
 
 }
+
+.container-title{
+	text-align: center;
+	padding: 10px;
+	margin: 20px 20px 100px 20px;
+}
+
+.container-bagcontents{
+	text-align: center;
+}
+
+hr{
+	display: block;
+	margin-left: 100px;
+	margin-right: 150px;
+	border-width: 1px;
+	border-color: #339933;
+}
+
