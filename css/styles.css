@@ -11,7 +11,7 @@ body {margin: 0px;}
 
 .navbar-brand { 
 	font-size: 30px; 
-	color: white;
+	color: #339933;
    }
 
 
@@ -50,10 +50,14 @@ font-size: 30px;
 	padding-top: 170PX;
 }
 	
-	
-.contactinfotitle {
-    text-align: center;
+body {
+			background-image: url("../images/bars.png");
+			background-repeat: no-repeat;
+ 			background-attachment: fixed;
+  			background-size: 100% 100%;
 }
+
+
 
 .margins {
     margin-left: 300px;
