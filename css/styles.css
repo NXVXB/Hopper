@@ -46,8 +46,9 @@ a {
 
 .text-center { 
 	background: #E6E5E5;
-	margin: 0;
-	padding-top: 170PX;
+	margin: 0px;
+	padding-top: 150PX;
+	padding-bottom: 30px;
 }
 	
 body {
@@ -145,7 +146,7 @@ p {
 }
 
 .contactinfo {
-    color: green;
+    color: 339933;
     text-align: center;
 	font-size: large		
 }
@@ -171,8 +172,26 @@ p {
     margin-bottom: -50px;
 }
 
+.bag-section{
+	text-align: center;
+	padding: 15px;
+	margin: 15px 15px 40px 15px;
+}
 
+.text-checkout{
+	text-align: center;
+	border: solid #EED10E 1px;
+	border-radius: 1px;
+	padding: 25px;
+	margin: 15px;
+	background-color:#EED10E;
+	align-content: center;
 
+}
 
-
-
+.btn-outline-warning{
+	color:#339933;
+	border-color: #339933;
+	text-align: center;
+	align-items: center;
+}
