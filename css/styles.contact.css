@@ -52,20 +52,18 @@ font-size: 30px;
 	padding-top: 170PX;
 }
 	
-<<<<<<< HEAD
+
 	
 .contactinfotitle {
     text-align: center;
-=======
+}
+
 body {
 	background-image: url("../images/bars.png");
 	background-repeat: no-repeat;
  	background-attachment: fixed;
   	background-size: 100% 100%;
-<<<<<<< HEAD
->>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
-=======
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
+
 }
 
 .margins {
@@ -126,11 +124,13 @@ h4 {
 	font-size: large
 }
 
+.instagram { font-size: medium}
 
 p { 
 	text-align: center;
 }
 	
+
 
 .testimonial {
 	margin-left: 60px;
@@ -138,6 +138,8 @@ p {
 	padding: 20px; 
 		
 }
+
+.footer { background-color:#EED10E}
 
 .d-bloc {
 	margin-left: 80px;
@@ -157,19 +159,9 @@ p {
 	
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .rounded{ width: 30px;
 
-=======
-.rounded{ 
-	width: 30px;	
->>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
-=======
-.rounded{ 
-	width: 30px;	
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
-}
 
 
 footer {
@@ -188,19 +180,12 @@ footer {
 	}
 	
 .btn {
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 	margin-top: 29px;
 	
+	} 
 	
-=======
-	margin: px;
->>>>>>> 9f412ec367755c30317478861b8fcbd4c9a5cf52
-=======
-	margin: px;
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
-}	
-
+	
 .bag-icon{
 	margin: 12px;
 	padding: 5px;
@@ -243,8 +228,7 @@ hr{
 	border-color: #339933;
 }
 
-<<<<<<< HEAD
-=======
+
 .text-checkout{
 	border: 2px solid #b9d1b9;
 	background-color: #ebf3eb;
@@ -252,4 +236,4 @@ hr{
 	margin: 15px;
 }
 
->>>>>>> 68d973dc4c173d1f256acb9d105432761a8ed2f8
+
