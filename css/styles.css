@@ -19,10 +19,19 @@ header {
 .nav-link {
 	font-size: 25px;
 	padding-bottom: 15px;
+	color: #339933;
+}
+
+.nav-link:hover, .nav-link:active {
+	color:#339933 !important;
 }
 
 .navbar-light .navbar-nav .nav-link{
 	color:#EED10E;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: #EED10E !important;
 }
 
 a {
@@ -96,12 +105,6 @@ h4 {
 
 p { 
 	text-align: center;
-}
-	
-.testimonial {
-	margin-left: 60px;
-	margin-right: 60px;
-	padding: 20px; 	
 }
 
 .d-bloc {
