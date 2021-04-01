@@ -40,14 +40,13 @@ a {
 }
 
 .container-fluid {
-	text-align: center;
-	padding: 3px;	
+	text-align: center;	
 }
 
 .text-center { 
 	background: #E6E5E5;
 	margin: 0px;
-	padding-top: 150PX;
+	padding-top: 150px;
 	padding-bottom: 30px;
 }
 	
@@ -146,7 +145,7 @@ p {
 }
 
 .contactinfo {
-    color: 339933;
+    color: #339933;
     text-align: center;
 	font-size: large		
 }
@@ -156,7 +155,7 @@ p {
 }
 
 .instagram { 
-	font-size: medium
+	font-size: medium;
 }
 
 .footer {
