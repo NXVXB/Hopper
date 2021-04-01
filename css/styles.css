@@ -6,7 +6,9 @@ header {
 	text-align:right;
 	padding: 0px; 
 }
-
+.container {
+	width: 87%;
+}
 .navbar-brand { 
 	font-size: 30px; 
 	color: #339933;
