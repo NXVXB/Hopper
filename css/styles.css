@@ -9,6 +9,7 @@ header {
 
 .container {
 	width: 89%;
+	min-height: 79vh;
 }
 
 .navbar-brand { 
@@ -161,14 +162,8 @@ p {
 .footer {
     background-color: #EED10E;
     border-bottom-width: thick;
-    margin-top: 300px;
     padding-top: 20px;
     padding-bottom: 20px;
-    top: 50px;
-    bottom: 50px;
-    left: 50px;
-    right: 50px;
-    margin-bottom: -50px;
 }
 
 .bag-section{
@@ -193,4 +188,8 @@ p {
 	border-color: #339933;
 	text-align: center;
 	align-items: center;
+}
+
+.content-shop, main{
+	min-height: 80vh;
 }
