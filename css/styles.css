@@ -8,11 +8,7 @@ header {
 }
 
 .container {
-	width: 87%;
-}
-
-body {
-	margin: 0px;
+	width: 89%;
 }
 
 .navbar-brand { 
@@ -20,15 +16,13 @@ body {
 	color: white;
    }
 
-.dropdown-item {
-	font-size: 17px;
-	color: #339933;
+.nav-link {
+	font-size: 25px;
+	padding-bottom: 15px;
 }
 
-.nav-link {
-	color:#339933;
-	font-size: 25px;
-	padding-bottom: 15px
+.navbar-light .navbar-nav .nav-link{
+	color:#EED10E;
 }
 
 a {
