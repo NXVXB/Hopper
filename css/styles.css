@@ -1,4 +1,4 @@
-	* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 header {
 	background:#339933;
@@ -6,6 +6,7 @@ header {
 	text-align:right;
 	padding: 0px; 
 }
+
 .container {
 	width: 87%;
 }
@@ -19,24 +20,21 @@ body {
 	color: white;
    }
 
-
 .dropdown-item {
 	font-size: 17px;
 	color: #339933;
 }
 
 .nav-link {
-	
 	color:#339933;
 	font-size: 25px;
 	padding-bottom: 15px
 }
 
-a {color:#339933;	
-font-size: 30px;
+a {
+	color:#339933;	
+	font-size: 30px;
 }
-
-
 
 .container-fluid {
 	text-align: center;
@@ -49,8 +47,6 @@ font-size: 30px;
 	padding-top: 170PX;
 }
 	
-
-
 body {
 	background-image: url("../images/bars.png");
 	background-repeat: no-repeat;
@@ -62,8 +58,6 @@ body {
     margin-left: 300px;
     margin-right: 300px;
 }
-
-	
 
 .img-fluid {
 	width: 350px; 
@@ -81,13 +75,11 @@ body {
 	margin-bottom: 70px;
 }
 
-
 .center {
 	display: block;
 	margin-left:auto;
 	margin-right:auto;
 }
-
 
 h2 {
     text-align: center;
@@ -98,83 +90,76 @@ h2 {
 }
 
 h1 {
-color:#EED10E;
+	color:#EED10E;
 }
 
 h4 {
-
     text-align: center;
     margin: 60px;
     font-size: 60px;
     color:#EED10E; 		
 }
 
-
-
-
 p { 
 	text-align: center;
 }
 	
-
 .testimonial {
 	margin-left: 60px;
 	margin-right: 60px;
-	padding: 20px; 
-		
+	padding: 20px; 	
 }
 
 .d-bloc {
 	margin-left: 80px;
 	margin-right: 80px;
 	width: 50%; 
-	
 }
+
 .embed-responsive-item {
-	  display: block;
-   margin: 0 auto;
+	display: block;
+  	margin: 0 auto;
 }
 
 .jumbotron{
 	margin: auto;
 	background: #E6E5E5;
 	text-align: center;
-	
 }
 
-
-.rounded{ width: 30px; }
+.rounded{
+    width: 30px; 
+}
 
 .btn {
-	margin-top: 25px;}
-
+	margin-top: 25px;
+}
 	
-	
-	.btn-primary {
+.btn-primary {
     color: #E6E5E5;
     background-color: #E6E5E5;
-    border-color:#EED10E;}
-
-
+    border-color:#EED10E;
+}
 
 .btn-primary:hover {
     color: #EED10E;
     background-color: #EED10E;
     border-color: #EED10E;
-
 }
 
 .contactinfo {
     color: green;
     text-align: center;
-	font-size: large
-		
+	font-size: large		
 }
 
 .contactinfotitle {
     text-align: center;
 }
-.instagram { font-size: medium}
+
+.instagram { 
+	font-size: medium
+}
 
 .footer {
     background-color: #EED10E;
