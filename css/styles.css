@@ -174,7 +174,8 @@ p {
 }
 
 .btn {
-	margin-top: 25px;
+	margin-top: 0px;
+	color: #339933;
 }
 	
 .btn-primary {
@@ -182,6 +183,8 @@ p {
     background-color: #E6E5E5;
     border-color:#EED10E;
 }
+
+
 
 .btn-primary:hover {
     color: #EED10E;
