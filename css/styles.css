@@ -210,10 +210,11 @@ p {
 }
 
 .footer {
+	margin: auto;
     background-color: #EED10E;
     border-bottom-width: thick;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }
 
 .bag-section{
