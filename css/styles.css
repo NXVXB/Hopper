@@ -199,3 +199,18 @@ p {
 	min-height: 80vh;
 }
 
+.justificationtext h2{
+	font-style: normal;
+	margin: 30px;
+	padding: 15px;
+}
+
+.container-testing{
+	padding: 15px;
+	margin: 25px;
+}
+
+.user-testing{
+	padding: 20px;
+	margin: 25px;
+}
