@@ -1,4 +1,13 @@
-* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
 
 header {
 	background:#339933;
@@ -88,7 +97,7 @@ body {
 }
 
 .img-fluid {
-	width: 350px; 
+	width: 300px; 
 	display: block;
 	margin-left:auto;
 	margin-right:auto;
@@ -174,14 +183,20 @@ p {
 }
 
 .btn {
-	margin-top: 25px;
+	margin-top: 0px;
+	color: #339933;
 }
 	
+
+
+
 .btn-primary {
     color: #E6E5E5;
     background-color: #E6E5E5;
     border-color:#EED10E;
 }
+
+
 
 .btn-primary:hover {
     color: #EED10E;
@@ -204,10 +219,11 @@ p {
 }
 
 .footer {
+	margin: auto;
     background-color: #EED10E;
     border-bottom-width: thick;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }
 
 .bag-section{
@@ -220,10 +236,13 @@ p {
 	text-align: center;
 	border: solid #EED10E 1px;
 	border-radius: 1px;
-	padding: 25px;
+	padding: 35px;
 	margin: 15px;
 	background-color:#EED10E;
 	align-content: center;
+	font-family: century-gothic, sans-serif;
+	font-weight: 500;
+	font-style:normal;
 
 }
 
@@ -242,6 +261,7 @@ p {
 	font-style: normal;
 	margin: 30px;
 	padding: 15px;
+	text-align: center;
 }
 
 .container-testing{
