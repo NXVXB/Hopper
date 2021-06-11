@@ -154,7 +154,7 @@ h4 {
     color:#EED10E; 		
 }
 
-p { 
+p, ul { 
 	text-align: center;
 	font-family: century-gothic, sans-serif;
 	font-weight: 400;
